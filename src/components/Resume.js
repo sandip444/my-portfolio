@@ -205,8 +205,40 @@ const Resume = () => {
               align="center"
               style={{ color: "tan" }}
             >
-              Lorem sdjf sfdhjs sdfjlsjf dfshdfkjs sdfhskdjfhsk d sd fshfs
-              dfjkshfksdhf sd fushfushf udufhsdufhs sdhishfs
+              As a full stack developer i work on
+              html,css,js.jquery,bootstrap,php,test Api on postman.i have one
+              year experiance on this technology
+            </Typography>
+          </Box>
+          <Typography
+            variant="h2"
+            className={`${classes.timeLineYear} ${classes.timeLineItem}`}
+          >
+            2019-2020
+          </Typography>
+          <Box component="div" className={classes.timeLineItem}>
+            <Typography
+              variant="h5"
+              align="center"
+              className={classes.subHeading}
+            >
+              Mern stack developement
+            </Typography>
+            <Typography
+              variant="body1"
+              align="center"
+              style={{ color: "tomato" }}
+            >
+              Work as Freelancer
+            </Typography>
+            <Typography
+              variant="subtitle1"
+              align="center"
+              style={{ color: "tan" }}
+            >
+              As a Mern stack developer i work on Nodejs,Reactjs
+              ,mongoDB,Express,Rest Api. i have one year experiance on this
+              technology
             </Typography>
           </Box>
           <Typography
@@ -235,8 +267,11 @@ const Resume = () => {
               align="center"
               style={{ color: "tan" }}
             >
-              Lorem sdjf sfdhjs sdfjlsjf dfshdfkjs sdfhskdjfhsk d sd fshfs
-              dfjkshfksdhf sd fushfushf udufhsdufhs sdhishfs
+              Proficient in developing Single Page Applications(SPA) using
+              JavaScript MVC framework such as React JS.Worked in using React
+              components, Forms, Event, Keys, Route and Redux concepts. Worked
+              on state, specs, props and events to create interactive React JS
+              components.
             </Typography>
           </Box>
           <Typography
@@ -265,8 +300,11 @@ const Resume = () => {
               align="center"
               style={{ color: "tan" }}
             >
-              Lorem sdjf sfdhjs sdfjlsjf dfshdfkjs sdfhskdjfhsk d sd fshfs
-              dfjkshfksdhf sd fushfushf udufhsdufhs sdhishfs
+              Design React Native components and higher order components. Design
+              UI views with Flexbox and React Native dimension API. Used React
+              Router for routing the redux app to connect redux and react to
+              support routes. Worked in using React native components, Forms,
+              Event, Keys, Navigation and Redux concepts.
             </Typography>
           </Box>
         </Box>

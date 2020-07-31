@@ -34,7 +34,7 @@ const Header = () => {
         <Avatar
           className={classes.avatar}
           src={AvatarIcon}
-          alt="sam's Portfolio"
+          alt="Sandip's Portfolio"
         />
       </Grid>
       <Typography className={classes.title} variant="h4">
@@ -48,6 +48,7 @@ const Header = () => {
             "Web Designer",
             "Full Stack Developer",
             "React Developer",
+            "Mern Stack Developer",
             "Mobile App Developer",
           ]}
           typeSpeed={40}
