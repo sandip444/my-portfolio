@@ -129,7 +129,11 @@ const Projects = () => {
               <Button size="small" color="primary">
                 Share
               </Button>
-              <Button size="small" color="primary">
+              <Button
+                size="small"
+                color="primary"
+                href="https://sandiportfolio.herokuapp.com/"
+              >
                 Live Demo
               </Button>
             </CardActions>
